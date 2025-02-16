@@ -19,21 +19,11 @@ MVC Pattern: Organized structure for maintainability.
 
 Composer Autoloading: Efficient dependency management.
 
-Installation
 
-Prerequisites
-
-XAMPP (or any Apache + MySQL setup)
-
-PHP 7.4+
-
-Composer
 
 Steps
 
 Clone the Repository
-
-git clone https://github.com/yourusername/railway_management.git
 
 Navigate to the Project Directory
 
